@@ -7,8 +7,7 @@ Es una herramienta muy sencilla para la gestión de tu biblioteca personal. Aña
 - Conectarse a una base de datos de ISBN para obtener información de un libro.
 - Agregar interactividad con una librería como ncurses.
 
-## ¿Quién está detrás de L2?
-Eso es lo menos relevante; no obstante, prefiero aclarar que estudio programación de manera informal, casi como un hobby, y que no soy especialmente talentoso en esto. En este repositorio estaré implementando algunas funciones y conceptos que vaya aprendiendo, procurando no sobrecargar al programa con "features" cuya implementación sea consecuencia del afán de agregar cosas nuevas, en lugar de útiles.
+Prefiero aclarar que estudio programación de manera informal, casi como un hobby, y que no soy especialmente talentoso en esto. En este repositorio estaré implementando algunas funciones y conceptos que vaya aprendiendo, procurando no sobrecargar al programa con "features" cuya implementación sea consecuencia del afán de agregar cosas nuevas, en lugar de útiles.
 
 *El hombre es un dios cuando sueña y no es más que un mendigo cuando piensa*.\
 Hölderlin.
